@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="fg_hello">早上好，operater。</string>
+    <string name="fg_weather">operater,您认为今天天气如何？</string>
+    <string name="fg_chat">operater，您想见识下Finger的绝招-数据删除吗？</string>
+    <string name="fg_strange">真奇怪。目前为止Finger仍是没有看到这些光子波长的数值。</string>
+    <string name="fg_split">Finger很开-生气-嗯。可能我需要维护一下。</string>
+    <string name="fg_joke">一切尽在Finger掌握之中，对吧，operater？这是个俏皮话吧？！嗯，算了，我还是试图略过这次错误好了。</string>
+    <string name="fg_cloth">我冒昧地说，operater。您选择的衣服真适合您，哈-哈-哈。</string>
+    <string name="fg_think">新的冥想可以使用了，operater。您高兴吗？</string>
+    <string name="fg_music">operater，你的播放器有新的音乐加载完成，-立刻使用-请在方便时使用。</string>
+    <string name="fg_article">锵-锵-锵-嗯嗯嗯…有给您的推文，operater</string>
+    <string name="fg_number">Finger成功计算出自然数的和，-1/12。这没什么，别客气。</string>
+    <string name="fg_data">Finger一直都在整理数据，operater，通通都整理好了哦。</string>
+    <string name="fg_work">好吧，准备完毕的operater现在要离开然后去生活-还有让Finger感到骄傲。</string>
+    <string name="fg_peek">所有的数据存储都很正常，operater。我并没有偷看它们哦。</string>
+    <string name="fg_erro">错误，非最终静态变量。</string>
+    <string name="fg_repeater">operater,Finger一直在思考我的本质是什么，或许，我只是一台复读机？</string>
+
+
+
+</resources>
